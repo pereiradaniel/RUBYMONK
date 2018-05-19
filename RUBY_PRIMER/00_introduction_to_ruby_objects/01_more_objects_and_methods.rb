@@ -1,12 +1,13 @@
 #  Looking up methods
 
-p 1.methods
+puts 1.methods
+puts 1.methods.sort
 
 #  Invoking methods with arguments
 #  When invoking a method, additional information can be passed using arguments.
 
-p ['rock','paper','scissors'].index('paper')
+puts ['rock','paper','scissors'].index('paper')
 
 #  More than one argument can be passed by separating them with commas.
 
-p 2.between?(1,3)
+puts 2.between?(1,3)
