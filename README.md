@@ -1,7 +1,8 @@
 # Rubymonk Tutorial Notes
 ---
 
-Notes and experiment files for the Rubymonk tutorial.
+## INFO
+Notes from and experiment files for the Rubymonk tutorial.
 
 ## CONTENTS
 
