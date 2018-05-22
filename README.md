@@ -4,8 +4,8 @@
 ## INFO
 Notes from and experiment files for the Rubymonk tutorial.
 
-## CONTENTS
 
+## CONTENTS
 - [Ruby Primer](https://github.com/pereiradaniel/RUBYMONK/tree/master/RUBY_PRIMER)
 
 ---
