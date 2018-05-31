@@ -1,5 +1,4 @@
 # Rubymonk Tutorial Notes
----
 
 ## INFO
 
