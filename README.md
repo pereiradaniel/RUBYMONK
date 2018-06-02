@@ -2,7 +2,8 @@
 
 ## INFO
 
-Notes and experiments from Rubymonk
+Notes and experiments from Rubymonk.
+
 
 ## Contents
 
