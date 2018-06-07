@@ -4,7 +4,7 @@
 
 Notes and experiments from Rubymonk.
 
-Visit my [blog](https://pereirawebdev.blogspot.ca)
+Visit my [blog](https://pereirawebdev.blogspot.ca).
 
 ## Contents
 
