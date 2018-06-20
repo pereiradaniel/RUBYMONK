@@ -20,6 +20,6 @@ p new_array
 
 def array_copy(source)
   destination = []
-  source.each {|i| i < 4 ? destination << i next}
+  source.each {|i| i < 4 ? destination << i : next}
   return destination
 end
